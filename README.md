@@ -1,7 +1,9 @@
 # bigquery-utils
 Production-ready SQL patterns and utilities for Google BigQuery. Built by Select Distinct
 ---
-
+## 📖 Tutorials & Explanations
+Check out our deep dive on how to use these utilities in production:
+* [BigQuery: Find Duplicates Using QUALIFY, WHERE and HAVING]((https://www.selectdistinct.co.uk/2026/02/12/finding-duplicates-using-where-having-qualify/))
 
 ---
 
