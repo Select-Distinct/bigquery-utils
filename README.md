@@ -1,16 +1,16 @@
 # bigquery-utils
 Production-ready SQL patterns and utilities for Google BigQuery. Built by Select Distinct
-
+---
 
 
 ---
 
-## 🤝 Need Professional BI Support?
+## 🤝 Need Professional BigQuery Support?
 Setting up SQL scripts is just the beginning. At **Select Distinct**, we help businesses turn data into a competitive advantage through expert consulting and mentoring.
 
-* **Power BI & Data Strategy:** [View our Services](https://www.selectdistinct.co.uk/services/power-bi-consulting/)
+* **Google BigQuery Consulting** [View our Services](https://www.selectdistinct.co.uk/business-intelligence-expert-services/google-bigquery-consulting/)
 * **BigQuery & Data Warehousing:** [Expert Solutions](https://www.selectdistinct.co.uk/technologies/google-bigquery/)
-* **1-on-1 Mentoring:** [Upskill your Team](https://www.selectdistinct.co.uk/technologies/power-bi/power-bi-mentoring/)
+  **BigQuery Glossary:** [Read our BigQuery Glossary](https://www.selectdistinct.co.uk/google-bigquery-glossary/)
 
 **Ready to solve your data challenges?** 👉 [Book a Free 30-Minute Consultation](https://www.selectdistinct.co.uk/contact/)
 
